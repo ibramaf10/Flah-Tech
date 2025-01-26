@@ -5,7 +5,7 @@ import bg from "../assets/bg-trator.jpg";
 import crop from "../assets/Rectangle 10.png";
 const Hero = () => {
   const handleButtonClick = () => {
-    window.location.href = "https://kzmlywhokozbn3a9lje9.lite.vusercontent.net/";
+    window.location.href = "https://kzmgczx2lff465or0dpl.lite.vusercontent.net/";
   };
 
   return (

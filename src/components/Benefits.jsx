@@ -5,7 +5,7 @@ import ReactPlayer from "react-player";
 
 const Benefits = () => {
   const handleButtonClick = () => {
-    window.location.href = "https://kzmlywhokozbn3a9lje9.lite.vusercontent.net/";
+    window.location.href = "https://kzmgczx2lff465or0dpl.lite.vusercontent.net/";
   };
 
   return (
