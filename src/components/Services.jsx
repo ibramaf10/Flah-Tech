@@ -20,7 +20,7 @@ const Services = () => {
             <img src={detail} alt="Shoes" className="rounded-xl " />
           </figure>
           <div className="card-body items-center text-center ">
-            <h2 className="card-title">Analyzation and Research of Land</h2>
+            <h2 className="card-title">Land analysis and research</h2>
           </div>
         </div>
 
@@ -51,7 +51,7 @@ const Services = () => {
             <img src={global} alt="Shoes" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center ">
-            <h2 className="card-title">Social Media</h2>
+            <h2 className="card-title">Automated irrigation systems</h2>
           </div>
         </div>
       </div>
