@@ -4,6 +4,10 @@ import React from "react";
 import bg from "../assets/bg-trator.jpg";
 import crop from "../assets/Rectangle 10.png";
 const Hero = () => {
+  const handleButtonClick = () => {
+    window.location.href = "https://kzmlywhokozbn3a9lje9.lite.vusercontent.net/";
+  };
+
   return (
     <div id="Home">
       <div
@@ -18,10 +22,12 @@ const Hero = () => {
             <h1 className="mb-5 text-2xl lg:text-5xl font-bold">
               The Role of Technology in Revolutionizing Agriculture
             </h1>
-            <button className="btn btn-sm btn-success md:btn md:btn-success mr-2 ">
+            <button
+              className="btn btn-sm btn-success md:btn md:btn-success mr-2"
+              onClick={handleButtonClick}>
               Get Started
             </button>
-            <button className="btn btn-outline text-slate-50  no-animation btn-sm md:btn-outline md:btn">
+            <button className="btn btn-outline text-slate-50 no-animation btn-sm md:btn-outline md:btn">
               Learn more
             </button>
           </div>

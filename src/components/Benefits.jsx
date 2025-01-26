@@ -4,6 +4,10 @@ import React from "react";
 import ReactPlayer from "react-player";
 
 const Benefits = () => {
+  const handleButtonClick = () => {
+    window.location.href = "https://kzmlywhokozbn3a9lje9.lite.vusercontent.net/";
+  };
+
   return (
     <div>
       <div className="hero min-h-screen bg-base-200 md:p-20">
@@ -108,7 +112,7 @@ const Benefits = () => {
               becomes paramount to minimizing stress while maximizing
               productivity and achieving farm profitability.
             </p>
-            <button className="btn btn-sm md:btn btn-primary">
+            <button className="btn btn-sm md:btn btn-primary" onClick={handleButtonClick}>
               Get Started
             </button>
           </div>
