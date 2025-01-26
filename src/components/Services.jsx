@@ -51,7 +51,7 @@ const Services = () => {
             <img src={global} alt="Shoes" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center ">
-            <h2 className="card-title">Automated irrigation systems</h2>
+            <h2 className="card-title">Automated Irrigation Setup</h2>
           </div>
         </div>
       </div>
