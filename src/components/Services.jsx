@@ -30,7 +30,7 @@ const Services = () => {
             <img src={stats} alt="Shoes" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center ">
-            <h2 className="card-title">Statics and Data of prices of crops</h2>
+            <h2 className="card-title">Statics and Data of water usage</h2>
           </div>
         </div>
 
