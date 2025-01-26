@@ -40,7 +40,7 @@ const Services = () => {
             <img src={strategy} alt="Shoes" className="rounded-xl" />
           </figure>
           <div className="card-body items-center text-center ">
-            <h2 className="card-title">Content Strategy and Consulting</h2>
+            <h2 className="card-title">24/7 Ai Assistant Support</h2>
           </div>
         </div>
 
